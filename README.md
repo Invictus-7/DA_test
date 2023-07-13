@@ -1,4 +1,4 @@
-# AptekaDom_test_task
+# DomApteka_test_task
 
 
 ### Описание проекта  
